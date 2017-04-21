@@ -1,0 +1,776 @@
+{
+    "Titles":
+    [
+        {
+            "Name":"Apps",
+            "Ref":"apps",
+            "active":"active"
+        },
+        {
+            "Name":"Breads",
+            "Ref":"breads",
+            "active":""
+        },
+        {
+            "Name":"Tandoori",
+            "Ref":"tandoori",
+            "active":""
+        },
+        {
+            "Name":"Chicken",
+            "Ref":"chickencurries",
+            "active":""            
+        },
+        {
+            "Name":"Lamb",
+            "Ref":"lambcurries",
+            "active":""            
+        },
+        {
+            "Name":"Sea Food",
+            "Ref":"seafood",
+            "active":""            
+        },
+        {
+            "Name":"Veggies",
+            "Ref":"veg",
+            "active":""            
+        },
+        {
+            "Name":"Biryani",
+            "Ref":"biryani",
+            "active":""
+        },
+        {
+            "Name":"Indian Chinese",
+            "Ref":"indianchinese",
+            "active":""
+        }
+    ],
+    
+    "menu":
+[
+    {
+        "itemName":"Kutchumber Salad",
+        "itemPrice":"7",
+        "itemType":"apps",
+        "itemImageSrc":"/assets/img/menu/item-1.jpg",
+        "itemDesc":"Chopped red onions, tomatoes, cucumber, chickpeas & dates in lemon dressing",
+        "gluten":"y",
+        "vegan":"y",
+        "spicy":"n"
+    },
+    {
+        "itemName":"Bhel Pori",
+        "itemPrice":"7",
+        "itemType":"apps",
+        "itemImageSrc":"/assets/img/menu/item-1.jpg",
+        "itemDesc":"Sweet & Sour Chutneys – spiced rice puffs and lentil noodles",
+        "gluten":"y",
+        "vegan":"y",
+        "spicy":"n"
+    },
+    {
+        "itemName":"Gobi Manchurian",
+        "itemPrice":"8",
+        "itemType":"apps",
+        "itemImageSrc":"/assets/img/menu/item-1.jpg",
+        "itemDesc":"Crisp Cauliflower – Hot Cilantro garlic Sauce",
+        "gluten":"y",
+        "vegan":"y",
+        "spicy":"h"
+    },
+    {
+        "itemName":"Ragda Patties",
+        "itemPrice":"8",
+        "itemType":"apps",
+        "itemImageSrc":"/assets/img/menu/item-1.jpg",
+        "itemDesc":"Emulsion of sweet, spicy & sour chutneys on a potato patties & sun dried peas",
+        "gluten":"n",
+        "vegan":"n",
+        "spicy":"n"
+    },
+    {
+        "itemName":"Veg Samosa",
+        "itemPrice":"7",
+        "itemType":"apps",
+        "itemImageSrc":"/assets/img/menu/item-1.jpg",
+        "itemDesc":"Triangular shaped pastry with choice of filling - Potato & Green Peas",
+        "gluten":"n",
+        "vegan":"n",
+        "spicy":"n"
+    },
+    {
+        "itemName":"Lamb Samosa",
+        "itemPrice":"11",
+        "itemType":"apps",
+        "itemImageSrc":"/assets/img/menu/item-1.jpg",
+        "itemDesc":"Triangular shaped pastry with choice of filling - Spiced Minced Lamb",
+        "gluten":"n",
+        "vegan":"n",
+        "spicy":"n"
+    },
+    {
+        "itemName":"Paneer Samosa",
+        "itemPrice":"8",
+        "itemType":"apps",
+        "itemImageSrc":"/assets/img/menu/item-1.jpg",
+        "itemDesc":"Triangular shaped pastry with choice of filling - Cauliflower Paneer",
+        "gluten":"n",
+        "vegan":"n",
+        "spicy":"n"
+    },
+    {
+        "itemName":"Samosa Chat",
+        "itemPrice":"8",
+        "itemType":"apps",
+        "itemImageSrc":"/assets/img/menu/item-1.jpg",
+        "itemDesc":"Triangular shaped pastry with choice of filling - Samosa Chat",
+        "gluten":"n",
+        "vegan":"n",
+        "spicy":"n"
+    },
+    {
+        "itemName":"Onion Bhajia",
+        "itemPrice":"7",
+        "itemType":"apps",
+        "itemImageSrc":"/assets/img/menu/item-1.jpg",
+        "itemDesc":"Thin cut onion fritters made with split pea & rice flour",
+        "gluten":"y",
+        "vegan":"y",
+        "spicy":"n"
+    },
+    {
+        "itemName":"Mirchi Bhajia",
+        "itemPrice":"7",
+        "itemType":"apps",
+        "itemImageSrc":"/assets/img/menu/item-1.jpg",
+        "itemDesc":"Fried Long hot peppers filled with sesame tamarind & split pea flour",
+        "gluten":"y",
+        "vegan":"y",
+        "spicy":"h"
+    },
+    {
+        "itemName":"Prawn Piri Piri",
+        "itemPrice":"14",
+        "itemType":"apps",
+        "itemImageSrc":"/assets/img/menu/item-1.jpg",
+        "itemDesc":"Grilled Prawns - Citrus peel, pimiento lemon sauce",
+        "gluten":"y",
+        "vegan":"n",
+        "spicy":"n"
+    },
+    {
+        "itemName":"Shrimp Manchurian",
+        "itemPrice":"11",
+        "itemType":"apps",
+        "itemImageSrc":"/assets/img/menu/item-1.jpg",
+        "itemDesc":"Crisp Shrimp – Hot Cilantro garlic Sauce",
+        "gluten":"n",
+        "vegan":"n",
+        "spicy":"h"
+    },
+    {
+        "itemName":"Shrimp Lasooni",
+        "itemPrice":"11",
+        "itemType":"apps",
+        "itemImageSrc":"/assets/img/menu/item-1.jpg",
+        "itemDesc":"Tempered curry leaves, garlic and green chili",
+        "gluten":"n",
+        "vegan":"n",
+        "spicy":"h"
+    },
+    {
+        "itemName":"Calcutta Calamari",
+        "itemPrice":"11",
+        "itemType":"apps",
+        "itemImageSrc":"/assets/img/menu/item-1.jpg",
+        "itemDesc":"Tempered curry leaves, garlic and green chili",
+        "gluten":"n",
+        "vegan":"n",
+        "spicy":"h"
+    },
+    {
+        "itemName":"Konkan Crab",
+        "itemPrice":"16",
+        "itemType":"apps",
+        "itemImageSrc":"/assets/img/menu/item-1.jpg",
+        "itemDesc":"Jumbo lump crab – Ginger Coconut Sauce",
+        "gluten":"y",
+        "vegan":"n",
+        "spicy":"n"
+    },
+    {
+        "itemName":"Kali Mirch Kabab",
+        "itemPrice":"10",
+        "itemType":"apps",
+        "itemImageSrc":"/assets/img/menu/item-1.jpg",
+        "itemDesc":"Garlic and black pepper marinated Grilled Chicken",
+        "gluten":"y",
+        "vegan":"n",
+        "spicy":"h"
+    },
+    {
+        "itemName":"Kalmi Kabab",
+        "itemPrice":"8",
+        "itemType":"apps",
+        "itemImageSrc":"/assets/img/menu/item-1.jpg",
+        "itemDesc":"Tandoori Roasted Chicken wings in red chili & garlic marinade",
+        "gluten":"y",
+        "vegan":"n",
+        "spicy":"h"
+    },
+    {
+        "itemName":"Kasuri Seekh Kabab",
+        "itemPrice":"10",
+        "itemType":"apps",
+        "itemImageSrc":"/assets/img/menu/item-1.jpg",
+        "itemDesc":"Chicken with garlic, fenugreek leaves, spices and green chili chutney",
+        "gluten":"y",
+        "vegan":"n",
+        "spicy":"h"
+    },
+    {
+        "itemName":"Nan",
+        "itemPrice":"4",
+        "itemType":"breads",
+        "itemImageSrc":"/assets/img/menu/item-1.jpg",
+        "itemDesc":"Unleavened flat bread",
+        "gluten":"n",
+        "vegan":"n",
+        "spicy":"n"
+    },
+    {
+        "itemName":"Kulcha",
+        "itemPrice":"5",
+        "itemType":"breads",
+        "itemImageSrc":"/assets/img/menu/item-1.jpg",
+        "itemDesc":"Nan filled or topped with Garlic or Onions or Potato or Nuts & Raisins",
+        "gluten":"n",
+        "vegan":"n",
+        "spicy":"n"
+    },
+    {
+        "itemName":"Green chilies Kulcha",
+        "itemPrice":"5",
+        "itemType":"breads",
+        "itemImageSrc":"/assets/img/menu/item-1.jpg",
+        "itemDesc":"Nan filled or topped Green chilies",
+        "gluten":"n",
+        "vegan":"n",
+        "spicy":"h"
+    },
+    {
+        "itemName":"Roti",
+        "itemPrice":"3",
+        "itemType":"breads",
+        "itemImageSrc":"/assets/img/menu/item-1.jpg",
+        "itemDesc":"Whole wheat flat bread",
+        "gluten":"n",
+        "vegan":"y",
+        "spicy":"n"
+    },
+    {
+        "itemName":"Paratha",
+        "itemPrice":"4",
+        "itemType":"breads",
+        "itemImageSrc":"/assets/img/menu/item-1.jpg",
+        "itemDesc":"Multi layered roti filled with butter",
+        "gluten":"n",
+        "vegan":"n",
+        "spicy":"n"
+    },
+    {
+        "itemName":"Pudina Paratha",
+        "itemPrice":"5",
+        "itemType":"breads",
+        "itemImageSrc":"/assets/img/menu/item-1.jpg",
+        "itemDesc":"Paratha topped with fresh mint and pomegranate",
+        "gluten":"n",
+        "vegan":"n",
+        "spicy":"n"
+    },
+    {
+        "itemName":"Chicken Tikka",
+        "itemPrice":"19",
+        "itemType":"tandoori",
+        "itemImageSrc":"/assets/img/menu/item-1.jpg",
+        "itemDesc":"Marinated in Ginger, garlic and cayenne and spices grilled over hard wood charcoal in the clay Tandoor served on a sizzler.",
+        "gluten":"y",
+        "vegan":"n",
+        "spicy":"h"
+    },
+    {
+        "itemName":"Chicken Malai",
+        "itemPrice":"19",
+        "itemType":"tandoori",
+        "itemImageSrc":"/assets/img/menu/item-1.jpg",
+        "itemDesc":"Marinated in Mild sour cream & yogurt, white pepper and grilled over hard wood charcoal in the clay Tandoor served on a sizzler.",
+        "gluten":"y",
+        "vegan":"n",
+        "spicy":"n"
+    },
+    {
+        "itemName":"Chicken Basil",
+        "itemPrice":"19",
+        "itemType":"tandoori",
+        "itemImageSrc":"/assets/img/menu/item-1.jpg",
+        "itemDesc":"Marinated in Basil & Fenugreek infused grilled chicken over wood charcoal in the clay Tandoor served on a sizzler.",
+        "gluten":"y",
+        "vegan":"n",
+        "spicy":"n"
+    },
+    {
+        "itemName":"Tandoori Chicken",
+        "itemPrice":"19",
+        "itemType":"tandoori",
+        "itemImageSrc":"/assets/img/menu/item-1.jpg",
+        "itemDesc":"Marinated in herbs and spices and grilled over hard wood charcoal in the clay Tandoor served on a sizzler.",
+        "gluten":"y",
+        "vegan":"n",
+        "spicy":"h"
+    },
+    {
+        "itemName":"Tandoori Shrimp",
+        "itemPrice":"24",
+        "itemType":"tandoori",
+        "itemImageSrc":"/assets/img/menu/item-1.jpg",
+        "itemDesc":"Marinated in Carom, roasted garlic and spice rubbed large shrimp and grilled over hard wood charcoal in the clay Tandoor served on a sizzler.",
+        "gluten":"y",
+        "vegan":"n",
+        "spicy":"n"
+    },
+    {
+        "itemName":"Fish Tikka",
+        "itemPrice":"24",
+        "itemType":"tandoori",
+        "itemImageSrc":"/assets/img/menu/item-1.jpg",
+        "itemDesc":"Marinated in Carom, roasted garlic and spice rubbed on Fish and grilled over hard wood charcoal in the clay Tandoor served on a sizzler.",
+        "gluten":"y",
+        "vegan":"n",
+        "spicy":"n"
+    },
+    {
+        "itemName":"Signature Lamb Chops",
+        "itemPrice":"34",
+        "itemType":"tandoori",
+        "itemImageSrc":"/assets/img/menu/item-1.jpg",
+        "itemDesc":"Herb crusted rack of lamb, grilled in tandoor, Indian salsa",
+        "gluten":"y",
+        "vegan":"n",
+        "spicy":"n"
+    },
+    {
+        "itemName":"My Mother’s Andhra Chicken",
+        "itemPrice":"19",
+        "itemType":"chickencurries",
+        "itemImageSrc":"/assets/img/menu/item-1.jpg",
+        "itemDesc":"Roasted and hand pounded poppy seed, clove and cardamom sauce",
+        "gluten":"y",
+        "vegan":"n",
+        "spicy":"h"
+    },
+    {
+        "itemName":"Kori Gassi",
+        "itemPrice":"19",
+        "itemType":"chickencurries",
+        "itemImageSrc":"/assets/img/menu/item-1.jpg",
+        "itemDesc":"Southern Indian style chicken in fresh coconut, red chilies and roasted coriander",
+        "gluten":"y",
+        "vegan":"n",
+        "spicy":"h"
+    },
+    {
+        "itemName":"Kadai Balti Chicken",
+        "itemPrice":"19",
+        "itemType":"chickencurries",
+        "itemImageSrc":"/assets/img/menu/item-1.jpg",
+        "itemDesc":"Chicken Tossed with Kashmir Chilies – Peppers –Roasted cumin",
+        "gluten":"y",
+        "vegan":"n",
+        "spicy":"h"
+    },
+    {
+        "itemName":"Chicken Tikka Masala",
+        "itemPrice":"21",
+        "itemType":"chickencurries",
+        "itemImageSrc":"/assets/img/menu/item-1.jpg",
+        "itemDesc":"Chicken kabab in a creamy tomato sauce",
+        "gluten":"y",
+        "vegan":"n",
+        "spicy":"n"
+    },
+    {
+        "itemName":"Chicken Korma",
+        "itemPrice":"19",
+        "itemType":"chickencurries",
+        "itemImageSrc":"/assets/img/menu/item-1.jpg",
+        "itemDesc":"Chicken in a mild cardamom flavored cream sauce",
+        "gluten":"y",
+        "vegan":"n",
+        "spicy":"n"
+    },
+    {
+        "itemName":"Mango chicken curry",
+        "itemPrice":"19",
+        "itemType":"chickencurries",
+        "itemImageSrc":"/assets/img/menu/item-1.jpg",
+        "itemDesc":"Chicken in ginger infused fresh mango & tomato sauce",
+        "gluten":"y",
+        "vegan":"n",
+        "spicy":"n"
+    },
+    {
+        "itemName":"Chicken Saag",
+        "itemPrice":"20",
+        "itemType":"chickencurries",
+        "itemImageSrc":"/assets/img/menu/item-1.jpg",
+        "itemDesc":"Cooked with Garlic Spinach",
+        "gluten":"y",
+        "vegan":"n",
+        "spicy":"n"
+    },
+    {
+        "itemName":"Lamb Rogan Josh",
+        "itemPrice":"22",
+        "itemType":"lambcurries",
+        "itemImageSrc":"/assets/img/menu/item-1.jpg",
+        "itemDesc":"A hearty lamb stew that is packed with spices & flavor",
+        "gluten":"y",
+        "vegan":"n",
+        "spicy":"n"
+    },
+    {
+        "itemName":"Lamb Saag",
+        "itemPrice":"22",
+        "itemType":"lambcurries",
+        "itemImageSrc":"/assets/img/menu/item-1.jpg",
+        "itemDesc":"Cooked with Garlic Spinach",
+        "gluten":"y",
+        "vegan":"n",
+        "spicy":"n"
+    },
+    {
+        "itemName":"Lamb Pasanda",
+        "itemPrice":"22",
+        "itemType":"lambcurries",
+        "itemImageSrc":"/assets/img/menu/item-1.jpg",
+        "itemDesc":"Slow cooked in Almond & Cashew Nut mild cream sauce",
+        "gluten":"y",
+        "vegan":"n",
+        "spicy":"n"
+    },
+    {
+        "itemName":"Lamb Vindaloo",
+        "itemPrice":"22",
+        "itemType":"lambcurries",
+        "itemImageSrc":"/assets/img/menu/item-1.jpg",
+        "itemDesc":"Cinnamon and Clove infused Portuguese style Lamb stew",
+        "gluten":"y",
+        "vegan":"n",
+        "spicy":"vh"
+    },
+    {
+        "itemName":"Lamb Dhansak",
+        "itemPrice":"22",
+        "itemType":"lambcurries",
+        "itemImageSrc":"/assets/img/menu/item-1.jpg",
+        "itemDesc":"Popular among the Parsi Zoroastrian community, lamb with lentil and vegetable potpourri",
+        "gluten":"y",
+        "vegan":"n",
+        "spicy":"n"
+    },
+    {
+        "itemName":"Lamb Lal Maas",
+        "itemPrice":"22",
+        "itemType":"lambcurries",
+        "itemImageSrc":"/assets/img/menu/item-1.jpg",
+        "itemDesc":"From the northern state of Rajasthan, fiery hot lamb curry",
+        "gluten":"y",
+        "vegan":"n",
+        "spicy":"vh"
+    },
+    {
+        "itemName":"Fish Kerala curry",
+        "itemPrice":"24",
+        "itemType":"seafood",
+        "itemImageSrc":"/assets/img/menu/item-1.jpg",
+        "itemDesc":"Southern Indian style with hints of cocum, red arbol chilies and coconut milk",
+        "gluten":"y",
+        "vegan":"n",
+        "spicy":"h"
+    },
+    {
+        "itemName":"Fish chutney wala",
+        "itemPrice":"24",
+        "itemType":"seafood",
+        "itemImageSrc":"/assets/img/menu/item-1.jpg",
+        "itemDesc":"Mint- cilantro- pan sauted cumin cauliflower",
+        "gluten":"y",
+        "vegan":"n",
+        "spicy":"n"
+    },
+    {
+        "itemName":"Shrimp Moilee",
+        "itemPrice":"22",
+        "itemType":"seafood",
+        "itemImageSrc":"/assets/img/menu/item-1.jpg",
+        "itemDesc":"Tempered curry leaf, ginger and red onion coconut milk sauce",
+        "gluten":"y",
+        "vegan":"n",
+        "spicy":"n"
+    },
+    {
+        "itemName":"Shrimp Korma",
+        "itemPrice":"22",
+        "itemType":"seafood",
+        "itemImageSrc":"/assets/img/menu/item-1.jpg",
+        "itemDesc":"Cardamom flavored mild shrimp in cream sauce",
+        "gluten":"y",
+        "vegan":"n",
+        "spicy":"n"
+    },
+    {
+        "itemName":"Shrimp Saag",
+        "itemPrice":"22",
+        "itemType":"seafood",
+        "itemImageSrc":"/assets/img/menu/item-1.jpg",
+        "itemDesc":"Cooked with Garlic Spinach",
+        "gluten":"y",
+        "vegan":"n",
+        "spicy":"n"
+    },
+    {
+        "itemName":"Prawn Gassi",
+        "itemPrice":"26",
+        "itemType":"seafood",
+        "itemImageSrc":"/assets/img/menu/item-1.jpg",
+        "itemDesc":"Southern Indian style shrimp in roasted coriander and red chilies",
+        "gluten":"y",
+        "vegan":"n",
+        "spicy":"h"
+    },
+    {
+        "itemName":"Saag Paneer",
+        "itemPrice":"16",
+        "itemType":"veg",
+        "itemImageSrc":"/assets/img/menu/item-1.jpg",
+        "itemDesc":"Garlic spinach and cottage cheese cubes with fenugreek",
+        "gluten":"y",
+        "vegan":"n",
+        "spicy":"n"
+    },
+    {
+        "itemName":"Baigan Burtha",
+        "itemPrice":"16",
+        "itemType":"veg",
+        "itemImageSrc":"/assets/img/menu/item-1.jpg",
+        "itemDesc":"Charcoal smoked eggplant smashed and cooked with tomatoes and green peas",
+        "gluten":"y",
+        "vegan":"y",
+        "spicy":"n"
+    },
+    {
+        "itemName":"Sunheri Bhindi",
+        "itemPrice":"17",
+        "itemType":"veg",
+        "itemImageSrc":"/assets/img/menu/item-1.jpg",
+        "itemDesc":"Juliennes of okra fried crisp and dusted with tangy powdered spices",
+        "gluten":"y",
+        "vegan":"y",
+        "spicy":"n"
+    },
+    {
+        "itemName":"Bhindi Masala",
+        "itemPrice":"17",
+        "itemType":"veg",
+        "itemImageSrc":"/assets/img/menu/item-1.jpg",
+        "itemDesc":"Slow cooked okra with roasted crushed spices",
+        "gluten":"y",
+        "vegan":"y",
+        "spicy":"n"
+    },
+    {
+        "itemName":"Malai Kofta",
+        "itemPrice":"16",
+        "itemType":"veg",
+        "itemImageSrc":"/assets/img/menu/item-1.jpg",
+        "itemDesc":"Potato and paneer cheese balls in a mild cardamom flavored sauce",
+        "gluten":"y",
+        "vegan":"n",
+        "spicy":"n"
+    },
+    {
+        "itemName":"Navarattan Korma",
+        "itemPrice":"16",
+        "itemType":"veg",
+        "itemImageSrc":"/assets/img/menu/item-1.jpg",
+        "itemDesc":"Cut vegetables in nuts and raisin cream sauce",
+        "gluten":"y",
+        "vegan":"n",
+        "spicy":"n"
+    },
+    {
+        "itemName":"Alu Gobi",
+        "itemPrice":"15",
+        "itemType":"veg",
+        "itemImageSrc":"/assets/img/menu/item-1.jpg",
+        "itemDesc":"Hand Cut Potatoes and Cauliflower/ roasted – Crushed Coriander Cumin tossed ginger",
+        "gluten":"y",
+        "vegan":"y",
+        "spicy":"n"
+    },
+    {
+        "itemName":"Paneer Sabji Jalfraize",
+        "itemPrice":"16",
+        "itemType":"veg",
+        "itemImageSrc":"/assets/img/menu/item-1.jpg",
+        "itemDesc":"Spicy stir fry of paneer cheese and cut vegetables",
+        "gluten":"y",
+        "vegan":"n",
+        "spicy":"n"
+    },
+    {
+        "itemName":"Chole Haldiram",
+        "itemPrice":"14",
+        "itemType":"veg",
+        "itemImageSrc":"/assets/img/menu/item-1.jpg",
+        "itemDesc":"Spicy stir fry of chickpeas in brown onion sauce",
+        "gluten":"y",
+        "vegan":"y",
+        "spicy":"n"
+    },
+    {
+        "itemName":"Chicken Biryani",
+        "itemPrice":"19",
+        "itemType":"biryani",
+        "itemImageSrc":"/assets/img/menu/item-1.jpg",
+        "itemDesc":"Slow cooked Basmati rice in sealed pots with fresh herbs, cardamom, mint and saffron with Chicken.",
+        "gluten":"y",
+        "vegan":"n",
+        "spicy":"n"
+    },
+    {
+        "itemName":"Lamb Biryani",
+        "itemPrice":"22",
+        "itemType":"biryani",
+        "itemImageSrc":"/assets/img/menu/item-1.jpg",
+        "itemDesc":"Slow cooked Basmati rice in sealed pots with fresh herbs, cardamom, mint and saffron with Lamb.",
+        "gluten":"y",
+        "vegan":"n",
+        "spicy":"n"
+    },
+    {
+        "itemName":"Shrimp Biryani",
+        "itemPrice":"23",
+        "itemType":"biryani",
+        "itemImageSrc":"/assets/img/menu/item-1.jpg",
+        "itemDesc":"Slow cooked Basmati rice in sealed pots with fresh herbs, cardamom, mint and saffron with Shrimp.",
+        "gluten":"y",
+        "vegan":"n",
+        "spicy":"n"
+    },
+    {
+        "itemName":"Veg Biryani",
+        "itemPrice":"16",
+        "itemType":"biryani",
+        "itemImageSrc":"/assets/img/menu/item-1.jpg",
+        "itemDesc":"Slow cooked Basmati rice in sealed pots with fresh herbs, cardamom, mint and saffron with Veggies.",
+        "gluten":"y",
+        "vegan":"y",
+        "spicy":"n"
+    },
+    {
+        "itemName":"Chicken Chili Chicken",
+        "itemPrice":"17",
+        "itemType":"indianchinese",
+        "itemImageSrc":"/assets/img/menu/item-1.jpg",
+        "itemDesc":"",
+        "gluten":"n",
+        "vegan":"n",
+        "spicy":"h"
+    },
+    {
+        "itemName":"Chicken Manchurian",
+        "itemPrice":"17",
+        "itemType":"indianchinese",
+        "itemImageSrc":"/assets/img/menu/item-1.jpg",
+        "itemDesc":"",
+        "gluten":"n",
+        "vegan":"n",
+        "spicy":"vh"
+    },
+    {
+        "itemName":"Shrimp Chili",
+        "itemPrice":"19",
+        "itemType":"indianchinese",
+        "itemImageSrc":"/assets/img/menu/item-1.jpg",
+        "itemDesc":"",
+        "gluten":"n",
+        "vegan":"n",
+        "spicy":"vh"
+    },
+    {
+        "itemName":"Shrimp Manchurain",
+        "itemPrice":"19",
+        "itemType":"indianchinese",
+        "itemImageSrc":"/assets/img/menu/item-1.jpg",
+        "itemDesc":"",
+        "gluten":"n",
+        "vegan":"n",
+        "spicy":"h"
+    },
+    {
+        "itemName":"Paneer & Capsicum Chili",
+        "itemPrice":"16",
+        "itemType":"indianchinese",
+        "itemImageSrc":"/assets/img/menu/item-1.jpg",
+        "itemDesc":"",
+        "gluten":"n",
+        "vegan":"n",
+        "spicy":"vh"
+    },
+    {
+        "itemName":"Chicken Fried Rice",
+        "itemPrice":"15",
+        "itemType":"indianchinese",
+        "itemImageSrc":"/assets/img/menu/item-1.jpg",
+        "itemDesc":"",
+        "gluten":"n",
+        "vegan":"n",
+        "spicy":"h"
+    },
+    {
+        "itemName":"Egg Fried Rice",
+        "itemPrice":"13",
+        "itemType":"indianchinese",
+        "itemImageSrc":"/assets/img/menu/item-1.jpg",
+        "itemDesc":"",
+        "gluten":"n",
+        "vegan":"n",
+        "spicy":"h"
+    },
+    {
+        "itemName":"Shrimp Fried Rice",
+        "itemPrice":"17",
+        "itemType":"indianchinese",
+        "itemImageSrc":"/assets/img/menu/item-1.jpg",
+        "itemDesc":"",
+        "gluten":"n",
+        "vegan":"n",
+        "spicy":"h"
+    },
+    {
+        "itemName":"Veg Fried Rice",
+        "itemPrice":"12",
+        "itemType":"indianchinese",
+        "itemImageSrc":"/assets/img/menu/item-1.jpg",
+        "itemDesc":"",
+        "gluten":"n",
+        "vegan":"n",
+        "spicy":"h"
+    }
+    
+
+]
+    }
