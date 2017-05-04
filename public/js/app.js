@@ -115,7 +115,7 @@ app.controller("EditContactController", function ($scope, $routeParams, Contacts
     }
 });
 
-app.controller('testcontroller', function ($scope, $http) {
+app.controller('RestaurantIndia', function ($scope, $http) {
     $scope.res = "";
     $http({
         method: 'GET',
